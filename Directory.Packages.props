@@ -1,0 +1,10 @@
+<Project>
+  <ItemGroup>
+    <PackageVersion Include="Microsoft.AspNetCore.App" Version="2.2.8" />
+    <PackageVersion Include="FluentMigrator" Version="5.1.0" />
+    <PackageVersion Include="FluentMigrator.Runner" Version="5.1.0" />
+    <PackageVersion Include="FluentMigrator.Runner.Postgres" Version="5.1.0" />
+    <PackageVersion Include="Npgsql" Version="8.0.2" />
+    <PackageVersion Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <ProjectReference Include="..\Otus.Highload.Homework.Api\Otus.Highload.Homework.Api.csproj" />
+    <ProjectReference Include="..\Otus.Highload.Homework.Persistence\Otus.Highload.Homework.Persistence.csproj" />
+  </ItemGroup>
+</Project>
